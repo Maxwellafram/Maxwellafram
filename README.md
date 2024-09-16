@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxwellafram
 - 👀 I’m interested in Colloboration for BI Projects
-- 🌱 I’m proficient in BI tools such SQL,Alteryx,Tableau,Power BI, Advance Excel
+- 🌱 I’m proficient in BI tools such SQL,Alteryx,Tableau Prep,Tableau,Power BI, Advance Excel
 - 💞️ I’m looking to collaborate on BI Projects including gathering requirement,data cleaning,Visualization
 - 📫 How to reach me 9044690897 / aframaugustmax@gmail.com
 - 😄 Pronouns: He/Him
