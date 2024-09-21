@@ -1,4 +1,12 @@
-👋 Hi, I’m @Maxwellafram a professional Data and Business Analyst
+https://docs.google.com/document/d/1bEsv4wQwwwyaFI5-fBeeLAf-F4zg2w90cabEUicVsso/edit?usp=sharing
+
+www.linkedin.com/in/htmaxwell-afram
+
+
+
+
+
+Hi, 👋 I’m Maxwell afram a professional Data and Business Analyst
 
 👀 I’m interested in collaborating on Business Intelligence (BI) Projects. Whether you're looking for help with data cleaning, visualization, 
 or analysis, I’m excited to work on impactful projects.
