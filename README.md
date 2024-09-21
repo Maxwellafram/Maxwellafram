@@ -1,4 +1,4 @@
-Aframaugustmax@gmail.com  www.linkedin.com/in/htmaxwell-afram
+Aframaugustmax@gmail.com       [www.linkedin.com/in/htmaxwell-afram](https://github.com/Maxwellafram)
 
 
 
