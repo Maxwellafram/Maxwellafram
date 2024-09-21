@@ -19,6 +19,7 @@ Phone: +91 9044690897
 Email: aframaugustmax@gmail.com
 
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I’m passionate about soccer and love spending time at the gym. Let's talk about fitness goals or the latest football matches!
 
 
