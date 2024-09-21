@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Maxwellafram
-- 👀 I’m interested in Colloboration for BI Projects
-- 🌱 I’m proficient in BI tools such SQL,Alteryx,Tableau Prep,Tableau,Power BI, Advance Excel
-- 💞️ I’m looking to collaborate on BI Projects including gathering requirement,data cleaning,Visualization
-- 📫 How to reach me 9044690897 / aframaugustmax@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Let's talk about soccer and the gym
+👋 Hi, I’m @Maxwellafram a professional Data and Business Analyst
+
+👀 I’m interested in collaborating on Business Intelligence (BI) Projects. Whether you're looking for help with data cleaning, visualization, 
+or analysis, I’m excited to work on impactful projects.
+
+🌱 I’m proficient in Business Intelligence tools including:
+SQL (MS SQL Server, MySQL, PostgreSQL) for data extraction, transformation, and querying.
+Alteryx for data preparation and blending.
+Tableau Prep for preparing data flows.
+Tableau & Power BI for building dynamic dashboards and visualizations.
+Advanced Excel for data manipulation and analysis.
+
+💞️ I’m looking to collaborate on BI Projects, including:
+Gathering requirements to understand business needs,Data cleaning and structuring to prepare datasets and 
+Creating meaningful visualizations to turn data into actionable insights.
+
+📫 How to reach me:
+Phone: +91 9044690897
+Email: aframaugustmax@gmail.com
+
+😄 Pronouns: He/Him
+⚡ Fun fact: I’m passionate about soccer and love spending time at the gym. Let's talk about fitness goals or the latest football matches!
+
 
 <!---
 Maxwellafram/Maxwellafram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
