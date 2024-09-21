@@ -6,21 +6,14 @@ www.linkedin.com/in/htmaxwell-afram
 
 
 
-Hi, 👋 I’m Maxwell afram a professional Data and Business Analyst
+👋 Hi, I’m Maxwell Afram, a passionate Data Analyst and Business Intelligence (BI) Developer with a love for transforming raw data into actionable insights. With over 10 years of experience as an Accountant and Auditor, handling complex figures and numbers has been second nature to me. My transition into data analytics stems from this deep familiarity with numbers and a desire to make a larger impact through data-driven decisions.
 
-👀 I’m interested in collaborating on Business Intelligence (BI) Projects. Whether you're looking for help with data cleaning, visualization, 
-or analysis, I’m excited to work on impactful projects.
+Currently, I'm working on an exciting project at Zomato, where I’m developing dashboards to analyze customer demographics, restaurant ratings, and order patterns. I use SQL, Alteryx, Tableau, and Power BI to clean data, build insights, and create intuitive visualizations. My expertise includes connecting data pipelines and optimizing dashboards for business use, ensuring teams can easily access the data they need.
 
-🌱 I’m proficient in Business Intelligence tools including:
-SQL (MS SQL Server, MySQL, PostgreSQL) for data extraction, transformation, and querying.
-Alteryx for data preparation and blending.
-Tableau Prep for preparing data flows.
-Tableau & Power BI for building dynamic dashboards and visualizations.
-Advanced Excel for data manipulation and analysis.
+Beyond my technical skills, I’m driven by a genuine passion for uncovering the stories that data can tell. I also love to share knowledge by teaching others about the impact of data and how to use BI tools effectively. Whether it’s analyzing sales figures or diving deep into customer behaviors, I aim to turn data into powerful tools that drive strategic decisions.
 
-💞️ I’m looking to collaborate on BI Projects, including:
-Gathering requirements to understand business needs,Data cleaning and structuring to prepare datasets and 
-Creating meaningful visualizations to turn data into actionable insights.
+Let’s collaborate on projects where we can turn data into something truly impactful
+
 
 📫 How to reach me:
 Phone: +91 9044690897
