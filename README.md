@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/1bEsv4wQwwwyaFI5-fBeeLAf-F4zg2w90cabEUicVsso/edit?usp=sharing
+https://docs.google.com/Resume/
 
 www.linkedin.com/in/htmaxwell-afram
 
