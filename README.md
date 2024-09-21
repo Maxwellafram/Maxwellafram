@@ -1,6 +1,4 @@
-[https://docs.google.com/Resume/](https://docs.google.com/document/d/1bEsv4wQwwwyaFI5-fBeeLAf-F4zg2w90cabEUicVsso/edit?usp=sharing)
-
-www.linkedin.com/in/htmaxwell-afram
+Aframaugustmax@gmail.com  www.linkedin.com/in/htmaxwell-afram
 
 
 
@@ -28,3 +26,5 @@ Email: aframaugustmax@gmail.com
 Maxwellafram/Maxwellafram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+You can View my Resume here: [https://docs.google.com/Resume/](https://docs.google.com/document/d/1bEsv4wQwwwyaFI5-fBeeLAf-F4zg2w90cabEUicVsso/edit?usp=sharing)
