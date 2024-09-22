@@ -1,6 +1,8 @@
 Aframaugustmax@gmail.com       
 [www.linkedin.com/in/htmaxwell-afram](https://github.com/Maxwellafram)
 
+https://github.com/Maxwellafram/Data_projects_TripleTen
+
 
 
 
