@@ -5,14 +5,15 @@ https://github.com/Maxwellafram/Data_projects_TripleTen
 
 
 
+👋 Hi, I’m Maxwell Afram, a results-driven Data Analyst and Business Intelligence (BI) Developer with a passion for transforming complex data into meaningful business insights. With 15+ years of experience spanning Accounting, Audit, and Data Analytics, I have developed a keen ability to access, manipulate, and interpret data to drive strategic decision-making. 📊
 
-👋 Hi, I’m Maxwell Afram, a passionate Data Analyst and Business Intelligence (BI) Developer with a love for transforming raw data into actionable insights. With over 10 years of experience as an Accountant and Auditor, handling complex figures and numbers has been second nature to me. My transition into data analytics stems from this deep familiarity with numbers and a desire to make a larger impact through data-driven decisions.
+🚀 Currently, I work as a Data Analyst at Supernova, where I design dynamic dashboards, optimize data pipelines, and translate raw data into actionable intelligence. Using tools like SQL, Alteryx, Tableau, and Power BI, I ensure businesses have real-time, data-driven insights to make informed decisions and stay ahead of the competition.
 
-Currently, I'm working on an exciting project at Zomato, where I’m developing dashboards to analyze customer demographics, restaurant ratings, and order patterns. I use SQL, Alteryx, Tableau, and Power BI to clean data, build insights, and create intuitive visualizations. My expertise includes connecting data pipelines and optimizing dashboards for business use, ensuring teams can easily access the data they need.
+📈 What sets me apart is my ability to bridge the gap between technical analytics and business strategy. I don’t just analyze numbers—I tell the story behind the data, providing stakeholders with clear, impactful insights that fuel growth. I thrive on solving complex problems, uncovering hidden trends, and optimizing reporting processes to enhance efficiency.
 
-Beyond my technical skills, I’m driven by a genuine passion for uncovering the stories that data can tell. I also love to share knowledge by teaching others about the impact of data and how to use BI tools effectively. Whether it’s analyzing sales figures or diving deep into customer behaviors, I aim to turn data into powerful tools that drive strategic decisions.
+🎓 Beyond my technical expertise, I’m passionate about sharing knowledge and empowering teams to make the most of their data. Whether it’s streamlining operations, identifying market trends, or improving customer insights, my goal is to turn data into a powerful competitive advantage.
 
-Let’s collaborate on projects where we can turn data into something truly impactful
+🤝 I’m excited to bring my expertise to a forward-thinking team where I can make a real impact. Let’s connect and explore how data can drive smarter decisions and business success!
 
 
 📫 How to reach me:
@@ -21,7 +22,7 @@ Email: aframaugustmax@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I’m passionate about soccer and love spending time at the gym. Let's talk about fitness goals or the latest football matches!
+⚡ Fun fact: I’m passionate about soccer and love spending time at the gym. Let's talk about fitness goals or the latest soccer matches!
 
 
 <!---
