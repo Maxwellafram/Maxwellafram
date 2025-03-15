@@ -29,4 +29,4 @@ Maxwellafram/Maxwellafram is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-You can View my Resume here: [https://docs.google.com/Resume/](https://docs.google.com/document/d/1bEsv4wQwwwyaFI5-fBeeLAf-F4zg2w90cabEUicVsso/edit?usp=sharing)
+You can View my Resume here: https://drive.google.com/file/d/1k6tkY4o9aCcu-li9GHC0ZC_-17udSmkY/view?usp=sharing 
